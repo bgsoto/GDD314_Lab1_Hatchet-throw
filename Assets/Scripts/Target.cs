@@ -13,7 +13,7 @@ public class Target : MonoBehaviour
     {
         Destroy(collision.gameObject);
         gone = 1;
-
+        score = +10;
     }
     private void Update()
     {
@@ -23,7 +23,8 @@ public class Target : MonoBehaviour
             gone = 0;
 
         }
-        Debug.Log(gone);
+       
+        Debug.Log(score);
     }
     
     
