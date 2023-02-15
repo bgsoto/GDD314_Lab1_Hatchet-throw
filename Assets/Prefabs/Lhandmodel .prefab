@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 8809142124310912585}
   - component: {fileID: 321343845552072093}
   - component: {fileID: 2070501322343278899}
-  - component: {fileID: 4055418925703310302}
+  - component: {fileID: 7954833034246103109}
   m_Layer: 0
   m_Name: 'Lhandmodel '
   m_TagString: Untagged
@@ -84,7 +84,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &4055418925703310302
+--- !u!65 &7954833034246103109
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
